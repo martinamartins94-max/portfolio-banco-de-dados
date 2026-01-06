@@ -1,0 +1,251 @@
+codigo,nome,codigo_moeda,populacao,capital,area
+AND,Andorra,EUR,77006,Andorra la Vella,468.0
+ARE,United Arab Emirates,AED,9630959,Abu Dhabi,82880.0
+AFG,Afghanistan,AFN,37172386,Kabul,647500.0
+ATG,Antigua and Barbuda,XCD,96286,St John's,443.0
+AIA,Anguilla,XCD,13254,The Valley,102.0
+ALB,Albania,ALL,2866376,Tirana,28748.0
+ARM,Armenia,AMD,2951776,Yerevan,29800.0
+AGO,Angola,AOA,30809762,Luanda,1246700.0
+ATA,Antarctica,,0,,14000000.0
+ARG,Argentina,ARS,44494502,Buenos Aires,2766890.0
+ASM,American Samoa,USD,55465,Pago Pago,199.0
+AUT,Austria,EUR,8847037,Vienna,83858.0
+AUS,Australia,AUD,24992369,Canberra,7686850.0
+ABW,Aruba,AWG,105845,Oranjestad,193.0
+ALA,Aland,EUR,26711,Mariehamn,1580.0
+AZE,Azerbaijan,AZN,9942334,Baku,86600.0
+BIH,Bosnia and Herzegovina,BAM,3323929,Sarajevo,51129.0
+BRB,Barbados,BBD,286641,Bridgetown,431.0
+BGD,Bangladesh,BDT,161356039,Dhaka,144000.0
+BEL,Belgium,EUR,11422068,Brussels,30510.0
+BFA,Burkina Faso,XOF,19751535,Ouagadougou,274200.0
+BGR,Bulgaria,BGN,7000039,Sofia,110910.0
+BHR,Bahrain,BHD,1569439,Manama,665.0
+BDI,Burundi,BIF,11175378,Gitega,27830.0
+BEN,Benin,XOF,11485048,Porto-Novo,112620.0
+BLM,Saint Barthelemy,EUR,8450,Gustavia,21.0
+BMU,Bermuda,BMD,63968,Hamilton,53.0
+BRN,Brunei,BND,428962,Bandar Seri Begawan,5770.0
+BOL,Bolivia,BOB,11353142,Sucre,1098580.0
+BES,"Bonaire, Sint Eustatius, and Saba",USD,18012,Kralendijk,328.0
+BRA,Brazil,BRL,209469333,Brasilia,8511965.0
+BHS,Bahamas,BSD,385640,Nassau,13940.0
+BTN,Bhutan,BTN,754394,Thimphu,47000.0
+BVT,Bouvet Island,NOK,0,,49.0
+BWA,Botswana,BWP,2254126,Gaborone,600370.0
+BLR,Belarus,BYN,9485386,Minsk,207600.0
+BLZ,Belize,BZD,383071,Belmopan,22966.0
+CAN,Canada,CAD,37058856,Ottawa,9984670.0
+CCK,Cocos (Keeling) Islands,AUD,628,West Island,14.0
+COD,DR Congo,CDF,84068091,Kinshasa,2345410.0
+CAF,Central African Republic,XAF,4666377,Bangui,622984.0
+COG,Congo Republic,XAF,5244363,Brazzaville,342000.0
+CHE,Switzerland,CHF,8516543,Bern,41290.0
+CIV,Ivory Coast,XOF,25069229,Yamoussoukro,322460.0
+COK,Cook Islands,NZD,21388,Avarua,240.0
+CHL,Chile,CLP,18729160,Santiago,756950.0
+CMR,Cameroon,XAF,25216237,Yaounde,475440.0
+CHN,China,CNY,1411778724,Beijing,9596960.0
+COL,Colombia,COP,49648685,Bogota,1138910.0
+CRI,Costa Rica,CRC,4999441,San Jose,51100.0
+CUB,Cuba,CUP,11338138,Havana,110860.0
+CPV,Cabo Verde,CVE,543767,Praia,4033.0
+CUW,Curacao,ANG,159849,Willemstad,444.0
+CXR,Christmas Island,AUD,1500,Flying Fish Cove,135.0
+CYP,Cyprus,EUR,1189265,Nicosia,9250.0
+CZE,Czechia,CZK,10625695,Prague,78866.0
+DEU,Germany,EUR,82927922,Berlin,357021.0
+DJI,Djibouti,DJF,958920,Djibouti,23000.0
+DNK,Denmark,DKK,5797446,Copenhagen,43094.0
+DMA,Dominica,XCD,71625,Roseau,754.0
+DOM,Dominican Republic,DOP,10627165,Santo Domingo,48730.0
+DZA,Algeria,DZD,42228429,Algiers,2381740.0
+ECU,Ecuador,USD,17084357,Quito,283560.0
+EST,Estonia,EUR,1320884,Tallinn,45226.0
+EGY,Egypt,EGP,98423595,Cairo,1001450.0
+ESH,Western Sahara,MAD,273008,,266000.0
+ERI,Eritrea,ERN,6209262,Asmara,121320.0
+ESP,Spain,EUR,46723749,Madrid,504782.0
+ETH,Ethiopia,ETB,109224559,Addis Ababa,1127127.0
+FIN,Finland,EUR,5518050,Helsinki,337030.0
+FJI,Fiji,FJD,883483,Suva,18270.0
+FLK,Falkland Islands,FKP,2638,Stanley,12173.0
+FSM,Micronesia,USD,112640,Palikir,702.0
+FRO,Faroe Islands,DKK,48497,Torshavn,1399.0
+FRA,France,EUR,66987244,Paris,547030.0
+GAB,Gabon,XAF,2119275,Libreville,267667.0
+GBR,United Kingdom,GBP,66488991,London,244820.0
+GRD,Grenada,XCD,111454,St. George's,344.0
+GEO,Georgia,GEL,3731000,Tbilisi,69700.0
+GUF,French Guiana,EUR,195506,Cayenne,91000.0
+GGY,Guernsey,GBP,65228,St Peter Port,78.0
+GHA,Ghana,GHS,29767108,Accra,239460.0
+GIB,Gibraltar,GIP,33718,Gibraltar,6.5
+GRL,Greenland,DKK,56025,Nuuk,2166086.0
+GMB,The Gambia,GMD,2280102,Banjul,11300.0
+GIN,Guinea,GNF,12414318,Conakry,245857.0
+GLP,Guadeloupe,EUR,443000,Basse-Terre,1780.0
+GNQ,Equatorial Guinea,XAF,1308974,Malabo,28051.0
+GRC,Greece,EUR,10727668,Athens,131940.0
+SGS,South Georgia and South Sandwich Islands,GBP,30,Grytviken,3903.0
+GTM,Guatemala,GTQ,17247807,Guatemala City,108890.0
+GUM,Guam,USD,165768,Hagatna,549.0
+GNB,Guinea-Bissau,XOF,1874309,Bissau,36120.0
+GUY,Guyana,GYD,779004,Georgetown,214970.0
+HKG,Hong Kong,HKD,7451000,Hong Kong,1092.0
+HMD,Heard and McDonald Islands,AUD,0,,412.0
+HND,Honduras,HNL,9587522,Tegucigalpa,112090.0
+HRV,Croatia,HRK,4089400,Zagreb,56542.0
+HTI,Haiti,HTG,11123176,Port-au-Prince,27750.0
+HUN,Hungary,HUF,9768785,Budapest,93030.0
+IDN,Indonesia,IDR,267663435,Jakarta,1919440.0
+IRL,Ireland,EUR,4853506,Dublin,70280.0
+ISR,Israel,ILS,8883800,,20770.0
+IMN,Isle of Man,GBP,84077,Douglas,572.0
+IND,India,INR,1352617328,New Delhi,3287590.0
+IOT,British Indian Ocean Territory,USD,4000,,60.0
+IRQ,Iraq,IQD,38433600,Baghdad,437072.0
+IRN,Iran,IRR,81800269,Tehran,1648000.0
+ISL,Iceland,ISK,353574,Reykjavik,103000.0
+ITA,Italy,EUR,60431283,Rome,301230.0
+JEY,Jersey,GBP,90812,Saint Helier,116.0
+JAM,Jamaica,JMD,2934855,Kingston,10991.0
+JOR,Jordan,JOD,9956011,Amman,92300.0
+JPN,Japan,JPY,126529100,Tokyo,377835.0
+KEN,Kenya,KES,51393010,Nairobi,582650.0
+KGZ,Kyrgyzstan,KGS,6315800,Bishkek,198500.0
+KHM,Cambodia,KHR,16249798,Phnom Penh,181040.0
+KIR,Kiribati,AUD,115847,Tarawa,811.0
+COM,Comoros,KMF,832322,Moroni,2170.0
+KNA,St Kitts and Nevis,XCD,52441,Basseterre,261.0
+PRK,North Korea,KPW,25549819,Pyongyang,120540.0
+KOR,South Korea,KRW,51635256,Seoul,98480.0
+KWT,Kuwait,KWD,4137309,Kuwait City,17820.0
+CYM,Cayman Islands,KYD,64174,George Town,262.0
+KAZ,Kazakhstan,KZT,18276499,Nur-Sultan,2717300.0
+LAO,Laos,LAK,7061507,Vientiane,236800.0
+LBN,Lebanon,LBP,6848925,Beirut,10400.0
+LCA,Saint Lucia,XCD,181889,Castries,616.0
+LIE,Liechtenstein,CHF,37910,Vaduz,160.0
+LKA,Sri Lanka,LKR,21670000,Colombo,65610.0
+LBR,Liberia,LRD,4818977,Monrovia,111370.0
+LSO,Lesotho,LSL,2108132,Maseru,30355.0
+LTU,Lithuania,EUR,2789533,Vilnius,65200.0
+LUX,Luxembourg,EUR,607728,Luxembourg,2586.0
+LVA,Latvia,EUR,1926542,Riga,64589.0
+LBY,Libya,LYD,6678567,Tripoli,1759540.0
+MAR,Morocco,MAD,36029138,Rabat,446550.0
+MCO,Monaco,EUR,38682,Monaco,1.95
+MDA,Moldova,MDL,3545883,Chisinau,33843.0
+MNE,Montenegro,EUR,622345,Podgorica,14026.0
+MAF,Saint Martin,EUR,37264,Marigot,53.0
+MDG,Madagascar,MGA,26262368,Antananarivo,587040.0
+MHL,Marshall Islands,USD,58413,Majuro,181.3
+MKD,North Macedonia,MKD,2082958,Skopje,25333.0
+MLI,Mali,XOF,19077690,Bamako,1240000.0
+MMR,Myanmar,MMK,53708395,Nay Pyi Taw,678500.0
+MNG,Mongolia,MNT,3170208,Ulaanbaatar,1565000.0
+MAC,Macao,MOP,631636,Macao,254.0
+MNP,Northern Mariana Islands,USD,56882,Saipan,477.0
+MTQ,Martinique,EUR,432900,Fort-de-France,1100.0
+MRT,Mauritania,MRU,4403319,Nouakchott,1030700.0
+MSR,Montserrat,XCD,9341,Plymouth,102.0
+MLT,Malta,EUR,483530,Valletta,316.0
+MUS,Mauritius,MUR,1265303,Port Louis,2040.0
+MDV,Maldives,MVR,515696,Male,300.0
+MWI,Malawi,MWK,17563749,Lilongwe,118480.0
+MEX,Mexico,MXN,126190788,Mexico City,1972550.0
+MYS,Malaysia,MYR,31528585,Kuala Lumpur,329750.0
+MOZ,Mozambique,MZN,29495962,Maputo,801590.0
+NAM,Namibia,NAD,2448255,Windhoek,825418.0
+NCL,New Caledonia,XPF,284060,Noumea,19060.0
+NER,Niger,XOF,22442948,Niamey,1267000.0
+NFK,Norfolk Island,AUD,1828,Kingston,34.6
+NGA,Nigeria,NGN,195874740,Abuja,923768.0
+NIC,Nicaragua,NIO,6465513,Managua,129494.0
+NLD,Netherlands,EUR,17231017,Amsterdam,41526.0
+NOR,Norway,NOK,5314336,Oslo,324220.0
+NPL,Nepal,NPR,28087871,Kathmandu,140800.0
+NRU,Nauru,AUD,12704,Yaren District,21.0
+NIU,Niue,NZD,2166,Alofi,260.0
+NZL,New Zealand,NZD,4885500,Wellington,268680.0
+OMN,Oman,OMR,4829483,Muscat,212460.0
+PAN,Panama,PAB,4176873,Panama City,78200.0
+PER,Peru,PEN,31989256,Lima,1285220.0
+PYF,French Polynesia,XPF,277679,Papeete,4167.0
+PNG,Papua New Guinea,PGK,8606316,Port Moresby,462840.0
+PHL,Philippines,PHP,106651922,Manila,300000.0
+PAK,Pakistan,PKR,212215030,Islamabad,803940.0
+POL,Poland,PLN,37978548,Warsaw,312685.0
+SPM,Saint Pierre and Miquelon,EUR,7012,Saint-Pierre,242.0
+PCN,Pitcairn Islands,NZD,46,Adamstown,47.0
+PRI,Puerto Rico,USD,3195153,San Juan,9104.0
+PSE,Palestine,ILS,4569087,,5970.0
+PRT,Portugal,EUR,10281762,Lisbon,92391.0
+PLW,Palau,USD,17907,Ngerulmud,458.0
+PRY,Paraguay,PYG,6956071,Asuncion,406750.0
+QAT,Qatar,QAR,2781677,Doha,11437.0
+REU,Reunion,EUR,776948,Saint-Denis,2517.0
+ROU,Romania,RON,19473936,Bucharest,237500.0
+SRB,Serbia,RSD,6982084,Belgrade,88361.0
+RUS,Russia,RUB,144478050,Moscow,17100000.0
+RWA,Rwanda,RWF,12301939,Kigali,26338.0
+SAU,Saudi Arabia,SAR,33699947,Riyadh,1960582.0
+SLB,Solomon Islands,SBD,652858,Honiara,28450.0
+SYC,Seychelles,SCR,96762,Victoria,455.0
+SDN,Sudan,SDG,41801533,Khartoum,1861484.0
+SWE,Sweden,SEK,10183175,Stockholm,449964.0
+SGP,Singapore,SGD,5638676,Singapore,692.7
+SHN,Saint Helena,SHP,7460,Jamestown,410.0
+SVN,Slovenia,EUR,2067372,Ljubljana,20273.0
+SJM,Svalbard and Jan Mayen,NOK,2550,Longyearbyen,62049.0
+SVK,Slovakia,EUR,5447011,Bratislava,48845.0
+SLE,Sierra Leone,SLL,7650154,Freetown,71740.0
+SMR,San Marino,EUR,33785,San Marino,61.2
+SEN,Senegal,XOF,15854360,Dakar,196190.0
+SOM,Somalia,SOS,15008154,Mogadishu,637657.0
+SUR,Suriname,SRD,575991,Paramaribo,163270.0
+SSD,South Sudan,SSP,8260490,Juba,644329.0
+STP,Sao Tome and Principe,STN,197700,Sao Tome,1001.0
+SLV,El Salvador,USD,6420744,San Salvador,21040.0
+SXM,Sint Maarten,ANG,40654,Philipsburg,21.0
+SYR,Syria,SYP,16906283,Damascus,185180.0
+SWZ,Eswatini,SZL,1136191,Mbabane,17363.0
+TCA,Turks and Caicos Islands,USD,37665,Cockburn Town,430.0
+TCD,Chad,XAF,15477751,N'Djamena,1284000.0
+ATF,French Southern Territories,EUR,140,Port-aux-Francais,7829.0
+TGO,Togo,XOF,7889094,Lome,56785.0
+THA,Thailand,THB,69428524,Bangkok,514000.0
+TJK,Tajikistan,TJS,9100837,Dushanbe,143100.0
+TKL,Tokelau,NZD,1466,,10.0
+TLS,Timor-Leste,USD,1267972,Dili,15007.0
+TKM,Turkmenistan,TMT,5850908,Ashgabat,488100.0
+TUN,Tunisia,TND,11565204,Tunis,163610.0
+TON,Tonga,TOP,103197,Nuku'alofa,748.0
+TUR,Turkey,TRY,82319724,Ankara,780580.0
+TTO,Trinidad and Tobago,TTD,1389858,Port of Spain,5128.0
+TUV,Tuvalu,AUD,11508,Funafuti,26.0
+TWN,Taiwan,TWD,23451837,Taipei,35980.0
+TZA,Tanzania,TZS,56318348,Dodoma,945087.0
+UKR,Ukraine,UAH,44622516,Kyiv,603700.0
+UGA,Uganda,UGX,42723139,Kampala,236040.0
+UMI,U.S. Outlying Islands,USD,0,,0.0
+USA,United States,USD,327167434,Washington,9629091.0
+URY,Uruguay,UYU,3449299,Montevideo,176220.0
+UZB,Uzbekistan,UZS,32955400,Tashkent,447400.0
+VAT,Vatican City,EUR,921,Vatican City,0.44
+VCT,St Vincent and Grenadines,XCD,110211,Kingstown,389.0
+VEN,Venezuela,VES,28870195,Caracas,912050.0
+VGB,British Virgin Islands,USD,29802,Road Town,153.0
+VIR,U.S. Virgin Islands,USD,106977,Charlotte Amalie,352.0
+VNM,Vietnam,VND,95540395,Hanoi,329560.0
+VUT,Vanuatu,VUV,292680,Port Vila,12200.0
+WLF,Wallis and Futuna,XPF,16025,Mata-Utu,274.0
+WSM,Samoa,WST,196130,Apia,2944.0
+XKX,Kosovo,EUR,1845300,Pristina,10908.0
+YEM,Yemen,YER,28498687,Sanaa,527970.0
+MYT,Mayotte,EUR,279471,Mamoudzou,374.0
+ZAF,South Africa,ZAR,57779622,Pretoria,1219912.0
+ZMB,Zambia,ZMW,17351822,Lusaka,752614.0
+ZWE,Zimbabwe,ZWL,14439018,Harare,390580.0
